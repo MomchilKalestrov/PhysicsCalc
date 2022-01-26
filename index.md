@@ -9,9 +9,9 @@
 ![Screenshot](https://lh3.googleusercontent.com/4bccL6HEL07D6JE3db38DbY2aVCR3yYgpMVLN3E7YItZLOvkqgXlxZkeMcmnHESxtkgwYhR0zBAPxGCSGjtPWeM)
 
 ## Credits
+- [Момчил Калестров](https://github.com/Momchil-k) (Графичен дизайн)
 - [Георги Веселинов]() (Формули) `Не си е дал GitHub-а...`
 - [Боян Копринков](https://github.com/BoyanK1) (Определения)
-- [Момчил Калестров](https://github.com/Momchil-k) (Графичен дизайн)
 
 ## Roadmap
 - [x]  Създаване на GitHub
