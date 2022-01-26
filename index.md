@@ -10,7 +10,7 @@
 
 ## Credits
 - [Момчил Калестров](https://github.com/Momchil-k) (Графичен дизайн)
-- [Георги Веселинов]() (Формули) `Не си е дал GitHub-а...`
+- [Георги Веселинов](https://github.com/GogoVeselinov) (Формули)
 - [Боян Копринков](https://github.com/BoyanK1) (Определения)
 
 ## Roadmap
