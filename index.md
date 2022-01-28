@@ -10,8 +10,8 @@
 
 ## Credits
 - [Момчил Калестров](https://github.com/Momchil-k) (Графичен дизайн)
-- [Георги Веселинов](https://github.com/GogoVeselinov) (Формули)
-- [Боян Копринков](https://github.com/BoyanK1) (Определения)
+- [Георги Веселинов](https://github.com/GogoVeselinov) (Кодира формулте)
+- [Боян Копринков](https://github.com/BoyanK1) (Кодира определенията)
 
 ## Roadmap
 - [x]  Създаване на GitHub
