@@ -4,10 +4,6 @@
 
 [`https://github.com/Momchil-k/PhysicsCalc/raw/main/CompiledVer/Release.rar`](https://github.com/Momchil-k/PhysicsCalc/raw/main/CompiledVer/Release.rar)
 
-![Screenshot](https://lh3.googleusercontent.com/a38LSXavMZOsosfg3LU83KnL7_uOz5Ou538Wc6PBF41MX_gJW7cduXrsQYI812V8Iw4bM4zNbV4eZTpalrnmE3g)
-![Screenshot](https://lh4.googleusercontent.com/b1MIJ7wypsrwY_ZtGMzbh33Z4X5M84-UsNiii67G-5R6jj6rWCz6dTfdknI8unUerAG5ti2D9kmQbGZZ-rJLE9U)
-![Screenshot](https://lh4.googleusercontent.com/rkaYo4ptbr_ao8XZOqVM4uh5nWH-2BuRGpXHrp66IKoxzF5_uarLfvBcGwC8k4e-HrRqQfNQcz63I4Y3RPDSUgc)
-
 ## Credits
 - [Момчил Калестров](https://github.com/Momchil-k) (Графичен дизайн)
 - [Георги Веселинов](https://www.instagram.com/_georgi_07/) (Кодира формулите)
