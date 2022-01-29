@@ -4,9 +4,9 @@
 
 [`https://github.com/Momchil-k/PhysicsCalc/raw/main/CompiledVer/Release.rar`](https://github.com/Momchil-k/PhysicsCalc/raw/main/CompiledVer/Release.rar)
 
-![Screenshot](https://lh4.googleusercontent.com/nL5Q_eOjJh7d-uZBrC_nwsXLk1pvEpVtxDQtSe8dPcEI6xHP-fId2t8DwbTvIAlQpd2LEFQQU7wwwUgbHVt-T5A)
-![Screenshot](https://lh5.googleusercontent.com/Gg-gGVM5fqwui-aJ9z5SXywssnNsAu-WOzSPYYaN31DEQsrNS4gQ2WvOItliJVkjdYys-5H-d8Tjz2oZsWNS0I0)
-![Screenshot](https://lh3.googleusercontent.com/4bccL6HEL07D6JE3db38DbY2aVCR3yYgpMVLN3E7YItZLOvkqgXlxZkeMcmnHESxtkgwYhR0zBAPxGCSGjtPWeM)
+![Screenshot](https://lh3.googleusercontent.com/a38LSXavMZOsosfg3LU83KnL7_uOz5Ou538Wc6PBF41MX_gJW7cduXrsQYI812V8Iw4bM4zNbV4eZTpalrnmE3g)
+![Screenshot](https://lh4.googleusercontent.com/b1MIJ7wypsrwY_ZtGMzbh33Z4X5M84-UsNiii67G-5R6jj6rWCz6dTfdknI8unUerAG5ti2D9kmQbGZZ-rJLE9U)
+![Screenshot](https://lh4.googleusercontent.com/rkaYo4ptbr_ao8XZOqVM4uh5nWH-2BuRGpXHrp66IKoxzF5_uarLfvBcGwC8k4e-HrRqQfNQcz63I4Y3RPDSUgc)
 
 ## Credits
 - [Момчил Калестров](https://github.com/Momchil-k) (Графичен дизайн)
