@@ -10,7 +10,7 @@
 
 ## Credits
 - [Момчил Калестров](https://github.com/Momchil-k) (Графичен дизайн)
-- [Георги Веселинов](https://www.instagram.com/_georgi_07/) (Кодира формулте)
+- [Георги Веселинов](https://www.instagram.com/_georgi_07/) (Кодира формулите)
 - [Боян Копринков](https://github.com/BoyanK1) (Кодира определенията)
 
 ## Roadmap
