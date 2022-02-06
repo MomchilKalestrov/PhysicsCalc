@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\bin\Debug\materialUI.exe.config
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\bin\Debug\materialUI.exe
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\bin\Debug\materialUI.pdb
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\materialUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\materialUI.Base.resources
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\materialUI.Properties.Resources.resources
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\materialUI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\materialUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\materialUI.exe
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\materialUI.pdb
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\materialUI.Formuli.resources
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\materialUI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\bin\Debug\materialUI.exe.manifest
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\bin\Debug\materialUI.application
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\materialUI.TrustInfo.xml
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\materialUI.exe.manifest
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\materialUI.application
