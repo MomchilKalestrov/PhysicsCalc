@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\materialUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\materialUI.Base.resources
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\materialUI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\materialUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\materialUI.Formuli.resources
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\materialUI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\bin\Debug\Physics Calculator.exe.config
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\bin\Debug\Physics Calculator.exe.manifest
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\bin\Debug\Physics Calculator.application
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\bin\Debug\Physics Calculator.exe
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\bin\Debug\Physics Calculator.pdb
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\PhysicsCalculator.Properties.Resources.resources
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\Physics Calculator.TrustInfo.xml
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\Physics Calculator.exe.manifest
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\Physics Calculator.application
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\Physics Calculator.exe
+C:\Users\User\Desktop\GUI\Installer\materialUI\materialUI\obj\Debug\Physics Calculator.pdb
