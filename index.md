@@ -4,6 +4,15 @@
 
 [`https://github.com/Momchil-k/PhysicsCalc/raw/main/CompiledVer/Release.rar`](https://github.com/Momchil-k/PhysicsCalc/raw/main/CompiledVer/Release.rar)
 
+## Changelog
+**Версия 1.0.2.0**
+
+-Добавен нов дизайн (material UI)
+
+-Добавени нови формули
+
+-Изчистен код
+
 ## Credits
 - [Момчил Калестров](https://github.com/Momchil-k) (Графичен дизайн)
 - [Георги Веселинов](https://www.instagram.com/_georgi_07/) (Кодира формулите)
