@@ -2,7 +2,7 @@
 
 Калкулатор по физика написан в C#. Преведен само на български. Калкулаторът се превежда на английски. Изтеглете го чрез:
 
-[`https://github.com/Momchil-k/PhysicsCalc/raw/main/CompiledVer/Release.rar`](https://github.com/Momchil-k/PhysicsCalc/raw/main/Installer.rar)
+[`https://github.com/Momchil-k/PhysicsCalc/raw/main/Installer.rar`](https://github.com/Momchil-k/PhysicsCalc/raw/main/Installer.rar)
 
 ## Changelog
 **Версия 1.0.2.0**
