@@ -340,10 +340,11 @@ namespace materialUI
             Input3.Show();
             Input4.Show();
 
+            Input2.Hide();
             Input3.Hide();
             Input4.Hide();
-            label1.Text = "Не";
-            label2.Text = "Знам";
+            label1.Text = "Въведи G:";
+            label2.Text = "";
             label3.Text = "";
             label4.Text = "";
             Globals.a = 21;
