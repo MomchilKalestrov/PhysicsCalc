@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Source Code\Calculator\physicCalc\obj\Debug\physicCalc.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Source Code\Calculator\physicCalc\obj\Debug\physicCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Source Code\Calculator\physicCalc\obj\Debug\materialUI.Base.resources
+C:\Users\User\Desktop\Source Code\Calculator\physicCalc\obj\Debug\physicCalc.Properties.Resources.resources
+C:\Users\User\Desktop\Source Code\Calculator\physicCalc\obj\Debug\physicCalc.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Source Code\Calculator\physicCalc\obj\Debug\physicCalc.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Source Code\Calculator\physicCalc\bin\Debug\physicCalc.exe.config
+C:\Users\User\Desktop\Source Code\Calculator\physicCalc\bin\Debug\physicCalc.exe
+C:\Users\User\Desktop\Source Code\Calculator\physicCalc\bin\Debug\physicCalc.pdb
+C:\Users\User\Desktop\Source Code\Calculator\physicCalc\obj\Debug\physicCalc.exe
+C:\Users\User\Desktop\Source Code\Calculator\physicCalc\obj\Debug\physicCalc.pdb
