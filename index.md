@@ -1,19 +1,10 @@
-# Physics Calc
+# Physics Calc за 8 клас
 
-Калкулатор по физика написан в C#. Преведен само на български. Калкулаторът се превежда на английски. Изтеглете го чрез:
+Калкулатор по физика за 8 клас написан в C#. Преведен само на български. Изтеглете го чрез:
 
 [`https://github.com/Momchil-k/PhysicsCalc/raw/main/Installer.rar`](https://github.com/Momchil-k/PhysicsCalc/raw/main/Installer.rar)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
-
-## Changelog
-**Версия 1.0.2.0**
-
--Добавен нов дизайн (material UI)
-
--Добавени нови формули
-
--Изчистен код
 
 ## Credits
 - [Момчил Калестров](https://github.com/Momchil-k) (Графичен дизайн)
