@@ -38,4 +38,5 @@
 
 ## Copyright
 Не бъди п!тка и не ни кради кода.
+
 ![bill](https://github.com/Momchil-k/PhysicsCalc/blob/gh-pages/billFromEstonia.png?raw=true "bill")
