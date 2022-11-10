@@ -4,10 +4,6 @@
 
 [`Натиснете тук за инсталера`](https://github.com/Momchil-k/PhysicsCalc/raw/main/PC9_Installer.rar)
 
-![settings](https://github.com/Momchil-k/PhysicsCalc/blob/gh-pages/settings.png?raw=true "settings")
-![definitions](https://github.com/Momchil-k/PhysicsCalc/blob/gh-pages/definitions.png?raw=true "definitions")
-![formulas](https://github.com/Momchil-k/PhysicsCalc/blob/gh-pages/formulas.png?raw=true "formulas")
-
 ## Credits
 - [Момчил Калестров](https://github.com/Momchil-k) (Създава графиките и кодира основните функции)
 - [Георги Веселинов](https://www.instagram.com/_georgi_07/) (Кодира формулите и поддържа калкулатора)
@@ -20,6 +16,12 @@
 - [ ]  Добавяне на формулите и определенията от първия срок
 - [ ]  Добавяне на формулите и определенията от втория срок
 - [ ]  Завършване на калкулатора
+
+## Gallery
+
+![settings](https://github.com/Momchil-k/PhysicsCalc/blob/gh-pages/settings.png?raw=true "settings")
+![definitions](https://github.com/Momchil-k/PhysicsCalc/blob/gh-pages/definitions.png?raw=true "definitions")
+![formulas](https://github.com/Momchil-k/PhysicsCalc/blob/gh-pages/formulas.png?raw=true "formulas")
 
 # Physics Calc за 8 клас
 
