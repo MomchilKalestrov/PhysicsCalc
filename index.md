@@ -2,7 +2,7 @@
 
 Калкулатор по физика за 9 клас написан в C#. Преведен само на български. Калкулатора в момента бива кодиран и все още е в Бета версия.
 
-[`Натиснете тук за инсталера`](https://github.com/Momchil-k/PhysicsCalc/raw/main/PC9_Installer.rar)
+[`Натиснете тук за инсталера`](https://github.com/pAx24/PhysicsCalc/raw/main/PC9_Installer.rar)
 
 ## Credits
 - [Момчил Калестров](https://github.com/Momchil-k) (Създава графиките и кодира основните функции)
