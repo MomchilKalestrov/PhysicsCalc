@@ -1,6 +1,7 @@
 # Physics Calc за 9 клас
 
 Калкулатор по физика за 9 клас написан в C#. Преведен само на български. Калкулатора в момента бива кодиран и все още е в Бета версия.
+Най-новата версия е 1.0.0.4
 
 [`Натиснете тук за инсталера`](https://github.com/pAx24/PhysicsCalc/raw/main/PC9_Installer.rar)
 
@@ -21,18 +22,16 @@
 
 ![settings](https://github.com/Momchil-k/PhysicsCalc/blob/gh-pages/settings.png?raw=true "settings")
 ![definitions](https://github.com/Momchil-k/PhysicsCalc/blob/gh-pages/definitions.png?raw=true "definitions")
-![formulas](https://github.com/Momchil-k/PhysicsCalc/blob/gh-pages/formulas.png?raw=true "formulas")
+![formulas](https://github.com/pAx24/PhysicsCalc/blob/gh-pages/formulas.png?raw=true "formulas")
 
 # Physics Calc за 8 клас
 
 Калкулатор по физика за 8 клас написан в C#. Преведен само на български. Изтеглете го чрез:
 
-[`https://github.com/Momchil-k/PhysicsCalc/raw/main/Installer.rar`](https://github.com/Momchil-k/PhysicsCalc/raw/main/Installer.rar)
-
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
 
 ## Credits
-- [Момчил Калестров](https://github.com/Momchil-k) (Графичен дизайн)
+- [Момчил Калестров](https://github.com/pAx24) (Графичен дизайн)
 - [Георги Веселинов](https://www.instagram.com/_georgi_07/) (Кодира формулите)
 - [Боян Копринков](https://github.com/BoyanK1) (Кодира определенията)
 
@@ -46,4 +45,4 @@
 ## Copyright
 Не бъди п!тка и не ни кради кода.
 
-![bill](https://github.com/Momchil-k/PhysicsCalc/blob/gh-pages/billFromEstonia.png?raw=true "bill")
+![bill](https://github.com/pAx24/PhysicsCalc/blob/gh-pages/billFromEstonia.png?raw=true "bill")
