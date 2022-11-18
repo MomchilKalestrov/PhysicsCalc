@@ -34,33 +34,45 @@ namespace PC9G
             versionLabel.Text = $"{major}.{minor}.{build}.{revision}";
         }
 
-
         private void checkForUpdates_Click(object sender, EventArgs e)
         {
-            if (goToSite)
+            try
             {
-                System.Diagnostics.Process.Start("https://momchil-k.github.io/PhysicsCalc/");
-                return;
+                if (goToSite)
+                {
+                    System.Diagnostics.Process.Start("https://github.com/pAx24/PhysicsCalc/raw/main/PC9_Installer.rar");
+                    return;
+                }
+
+                update.Text = "Търсене на нова версия...";
+                WebClient Client = new WebClient();
+                Client.DownloadFile("https://github.com/pAx24/PhysicsCalc/archive/refs/heads/Update.zip", @"C:\Users\" + Environment.UserName + @"\Documents\update_data.zip");
+                ZipFile.ExtractToDirectory(@"C:\Users\" + Environment.UserName + @"\Documents\update_data.zip", @"C:\Users\" + Environment.UserName + @"\Documents\");
+                int newVersion = int.Parse(File.ReadAllText(@"C:\Users\" + Environment.UserName + @"\Documents\PhysicsCalc-Update\dev.txt"));
+
+                if (newVersion <= version)
+                    update.Text = "Няма нова версия.";
+                else
+                {
+                    update.Text = "Намерена нова версия.";
+                    goToSite = true;
+                    checkForUpdates.Text = "Натиснете за нова версия";
+                }
             }
-
-            update.Text = "Търсене на нова версия...";
-            WebClient Client = new WebClient();
-            Client.DownloadFile("https://github.com/Momchil-k/PhysicsCalc/archive/refs/heads/Update.zip", @"C:\Users\" + Environment.UserName + @"\Documents\update_data.zip");
-            ZipFile.ExtractToDirectory(@"C:\Users\" + Environment.UserName + @"\Documents\update_data.zip", @"C:\Users\" + Environment.UserName + @"\Documents\");
-            int newVersion = int.Parse(File.ReadAllText(@"C:\Users\" + Environment.UserName + @"\Documents\PhysicsCalc-Update\dev.txt"));
-
-            if (newVersion <= version)
-               update.Text = "Няма нова версия.";
-            else
+            catch
             {
-                update.Text = "Намерена нова версия.";
-                goToSite = true;
-                checkForUpdates.Text = "Към сайта";
+                update.Text = "";
+                MessageBox.Show("Сървърът с данните не може да бъде контактуван. Моля проверете дали сте свързани към интернет. Ако сте, посетете сайта за да видите дали сте с най-новата версия.");
             }
-
-            File.Delete(@"C:\Users\" + Environment.UserName + @"\Documents\update_data.zip");
-            File.Delete(@"C:\Users\" + Environment.UserName + @"\Documents\PhysicsCalc-Update\dev.txt");
+            
+            try
+            {
+                File.Delete(@"C:\Users\" + Environment.UserName + @"\Documents\update_data.zip");
+                File.Delete(@"C:\Users\" + Environment.UserName + @"\Documents\PhysicsCalc-Update\dev.txt");
+            }
+            catch{ }
         }
+        
         private void changeTheme_Click(object sender, EventArgs e)
         {
             if(theme == "dark")
