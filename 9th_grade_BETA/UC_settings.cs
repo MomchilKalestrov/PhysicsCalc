@@ -94,7 +94,7 @@ namespace PC9G
                 sw.Write(theme);
             }
 
-            MessageBox.Show("Приложението трябва да се рестартира, за да влязат в сила промените.");
+            Application.Restart();
         }
 
         private void versionLabel_Click(object sender, EventArgs e)
