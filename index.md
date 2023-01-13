@@ -3,7 +3,7 @@
 Калкулатор по физика за 9 клас написан в C#. Преведен само на български. Калкулатора в момента бива кодиран и все още е в Бета версия.
 Най-новата версия е 1.0.0.4
 
-[`Натиснете тук за инсталера`](https://github.com/pAx24/PhysicsCalc/raw/main/PC9_Installer.rar)
+[`Натиснете тук за инсталера`](https://raw.githubusercontent.com/pAx24/PhysicsCalc/Update/Installer.exe)
 
 ## Credits
 - [Момчил Калестров](https://github.com/Momchil-k) (Създава графиките и кодира основните функции)
