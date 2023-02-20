@@ -26,6 +26,7 @@ Physics Calc 9G допринася за опазване на природнит
 ![settings](https://github.com/Momchil-k/PhysicsCalc/blob/gh-pages/settings.png?raw=true "settings")
 ![definitions](https://github.com/Momchil-k/PhysicsCalc/blob/gh-pages/definitions.png?raw=true "definitions")
 ![formulas](https://github.com/pAx24/PhysicsCalc/blob/gh-pages/formulas.png?raw=true "formulas")
+![brochure](https://github.com/pAx24/PhysicsCalc/blob/gh-pages/brochure.png?raw=true "brochure")
 
 # Physics Calc за 8 клас
 
