@@ -44,5 +44,3 @@
 
 ## Copyright
 Не кради кода. Иначе кода е под GPL лиценз.
-
-![bill](https://github.com/pAx24/PhysicsCalc/blob/gh-pages/billFromEstonia.png?raw=true "bill")
