@@ -1,11 +1,13 @@
 # PhysicsCalc 9G
 Програмата Physics Calc 9G служи на ученици да усвоят материала по “Физика и астрономия” бързо и лесно.
+
 Physics Calc 9G допринася за опазване на природните ресурси и намаляването на замърсяването на околната среда, тъй като с него отпада нуждата от използването на хартиени учебници.
-Най-новата версия е 1.0.0.7. Планувано е Physics Calc 9G да се надгражда периодично с нови формули и определения.
+
+Най-новата версия е 1.0.0.7. Планувано е калкулатора да се надгражда периодично с нови формули и определения.
 
 [`Свали от тук`](https://raw.githubusercontent.com/pAx24/PhysicsCalc/Update/Installer.exe)
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
+![Program made in C#](https://raw.githubusercontent.com/pAx24/PhysicsCalc/gh-pages/made-in-c%23.svg)
 
 ## Автори
 - [Момчил Калестров](https://github.com/pAx24) - графиките и функции
@@ -28,9 +30,9 @@ Physics Calc 9G допринася за опазване на природнит
 
 # Physics Calc за 8 клас
 
-Калкулатор по физика за 8 клас написан в C#. Трябва да се компилира.
+Калкулатор по “Физика и астрономия” за 8 клас написан в C#. Трябва да се компилира.
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
+![Program made in C#](https://raw.githubusercontent.com/pAx24/PhysicsCalc/gh-pages/made-in-c%23.svg)
 
 ## Автори
 - [Момчил Калестров](https://github.com/pAx24) - графичен дизайн
