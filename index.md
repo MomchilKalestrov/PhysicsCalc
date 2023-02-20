@@ -1,16 +1,16 @@
-# Physics Calc за 9 клас
+# PhysicsCalc 9G
 
 Калкулатор по физика за 9 клас написан в C#. Преведен само на български. Калкулатора в момента бива кодиран и все още е в Бета версия.
 Най-новата версия е 1.0.0.7
 
-[`Натиснете тук за инсталера`](https://raw.githubusercontent.com/pAx24/PhysicsCalc/Update/Installer.exe)
+[`Свали от тук`](https://raw.githubusercontent.com/pAx24/PhysicsCalc/Update/Installer.exe)
 
-## Credits
-- [Момчил Калестров](https://github.com/Momchil-k) (Създава графиките и кодира основните функции)
-- [Георги Веселинов](https://www.instagram.com/_georgi_07/) (Кодира формулите и поддържа калкулатора)
-- [Боян Копринков](https://github.com/BoyanK1) (Кодира определенията и поддържа калкулатора)
+## Автори
+- [Момчил Калестров](https://github.com/pAx24) - графиките и функции
+- [Георги Веселинов](https://www.instagram.com/_georgi_07/) - формули и поддръжка
+- [Боян Копринков](https://github.com/BoyanK1) - определения и поддръжка
 
-## Roadmap
+## Прогрес
 - [x]  Създаване на GitHub
 - [x]  Създаване на графичен дизайн
 - [ ]  Създаване на мобилна версия за Android
@@ -18,7 +18,7 @@
 - [ ]  Добавяне на формулите и определенията от втория срок
 - [ ]  Завършване на калкулатора
 
-## Gallery
+## Галерия
 
 ![settings](https://github.com/Momchil-k/PhysicsCalc/blob/gh-pages/settings.png?raw=true "settings")
 ![definitions](https://github.com/Momchil-k/PhysicsCalc/blob/gh-pages/definitions.png?raw=true "definitions")
@@ -26,21 +26,21 @@
 
 # Physics Calc за 8 клас
 
-Калкулатор по физика за 8 клас написан в C#. Преведен само на български. Изтеглете го чрез:
+Калкулатор по физика за 8 клас написан в C#. Трябва да се компилира.
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
 
-## Credits
-- [Момчил Калестров](https://github.com/pAx24) (Графичен дизайн)
-- [Георги Веселинов](https://www.instagram.com/_georgi_07/) (Кодира формулите)
-- [Боян Копринков](https://github.com/BoyanK1) (Кодира определенията)
+## Автори
+- [Момчил Калестров](https://github.com/pAx24) - графичен дизайн
+- [Георги Веселинов](https://www.instagram.com/_georgi_07/) - формули
+- [Боян Копринков](https://github.com/BoyanK1) - определения
 
-## Roadmap
+## Прогрес
 - [x]  Създаване на GitHub
 - [x]  Създаване на графичен дизайн
 - [x]  Добавяне на формулите и определенията от първия срок
 - [x]  Добавяне на формулите и определенията от втория срок
 - [x]  Завършване на калкулатора
 
-## Copyright
+## Лиценз
 Не кради кода. Иначе кода е под GPL лиценз.
