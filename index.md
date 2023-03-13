@@ -1,3 +1,17 @@
+<html>
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5X34JXF2Z4"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      
+      gtag('config', 'G-5X34JXF2Z4');
+    </script>
+  </head>
+</html>
+
 # PhysicsCalc 9G
 Програмата Physics Calc 9G служи на ученици да усвоят материала по “Физика и астрономия” бързо и лесно.
 
