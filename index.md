@@ -5,7 +5,7 @@ Physics Calc 9G допринася за опазване на природнит
 
 Най-новата версия е 1.0.0.7. Планувано е калкулатора да се надгражда периодично с нови формули и определения.
 
-[`Свали от тук`](https://raw.githubusercontent.com/pAx24/PhysicsCalc/Update/Installer.exe)
+[![Свали от тук](https://raw.githubusercontent.com/pAx24/PhysicsCalc/gh-pages/Download.png)](https://raw.githubusercontent.com/pAx24/PhysicsCalc/Update/Installer.exe)
 
 ![Program made in C#](https://raw.githubusercontent.com/pAx24/PhysicsCalc/gh-pages/made-in-c%23.svg)
 
