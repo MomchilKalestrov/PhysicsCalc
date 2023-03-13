@@ -46,7 +46,7 @@ Physics Calc 9G допринася за опазване на природнит
 - [x]  Добавяне на формулите и определенията от втория срок
 - [x]  Завършване на калкулатора
 
-## Лиценз
+# Лиценз
   Програмата е под AGPLv3 лиценз:
   
   The GNU Affero General Public License is a free, copyleft license for
